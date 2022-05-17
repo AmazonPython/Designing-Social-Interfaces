@@ -3,8 +3,9 @@
 《PHP8 Objects, Patterns, and Practice》第六版中文翻译
 
 - 作者：[Matt Zandstra](https://twitter.com/getinstance_mz)
-- 原名：[《PHP8 Objects, Patterns, and Practice》](https://link.springer.com/book/10.1007/978-1-4842-6791-2)
 - 译者：[Nova](https://lunanova.top)
+- 原名：[《PHP8 Objects, Patterns, and Practice》](https://link.springer.com/book/10.1007/978-1-4842-6791-2)
+- 译名：《PHP8 对象，模式与实践》
 
 ## 封面图片
 ![cover.png](https://img.wang.232232.xyz/img/2022/05/16/cover.png)
